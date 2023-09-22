@@ -7,4 +7,9 @@ some description
 
 Watch turial on youtube.
 
-Oiii
+## local development 
+
+1 open index.html in your browser
+
+
+
